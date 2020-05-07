@@ -14,3 +14,5 @@ If you want to contribute to this example or just hack on top of it, the followi
 2. Run `yarn start` or `npm start`
 
 The project should start and a browser window will be automatically opened and load the app on [http://localhost:3000](http://localhost:3000)
+
+![Dark Mode Demo](demo/dark-mode.gif)
